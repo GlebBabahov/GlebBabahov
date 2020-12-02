@@ -7,20 +7,20 @@
   <br>
 </p>
 
-<p width='80%' align='center'> 
-  <a  href='https://github.com/iliterobotics/FRC-Robot-2019'> 
+<p width='80%'> 
+  <a href='https://github.com/iliterobotics/FRC-Robot-2019'> 
            <img src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue' style='float:left'>
   </a>
-  
+  <a href='https://github.com/iliterobotics/FRC-Robot-2020'> 
+           <img src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue' style='float:right'>
+  </a>
 </p>
                                                                                                                           
 <!--                                                                                                                        
 [![Gleb Babahov's github stats](https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<a href='https://github.com/iliterobotics/FRC-Robot-2020'> 
-           <img align='right' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue'>
-  </a>
+
 -->
 
 <!--
