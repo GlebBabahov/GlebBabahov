@@ -1,7 +1,7 @@
 ### Welcome! 😊
 - 🎓 Battlefield High School
 - 📬 How to reach me?
-    gl.babahov@gmail.com(mailto:gl.babahov@gmail.com)
+    [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
 
 <!--
 **GlebBabahov/GlebBabahov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
