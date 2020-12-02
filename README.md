@@ -1,8 +1,11 @@
 ### Welcome! 😊
 - 🎓 Battlefield High School
-- 📬 How to reach me?
-    [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
+- 📬 Want to reach me? Send me an email: [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
 
+[![Gleb Babahov's github stats](https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GlebBabahov/GlebBabahov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
