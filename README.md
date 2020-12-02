@@ -2,10 +2,23 @@
 - 🎓 Battlefield High School
 - 📬 Want to reach me? Send me an email: [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
 
-[![Gleb Babahov's github stats](https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'> 
+  <img src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue" alt="GlebBabahov'> 
+  <br>
+</p>
 
+<p align='center'> 
+  <a href='https://github.com/iliterobotics/FRC-Robot-2019'> 
+           <img src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
+  </a>
+</p>
+                                                                                                                          
+<!--                                                                                                                        
+[![Gleb Babahov's github stats](https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **GlebBabahov/GlebBabahov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
