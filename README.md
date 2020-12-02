@@ -9,7 +9,7 @@
 
 <p width='80%' align='center'> 
   <a  href='https://github.com/iliterobotics/FRC-Robot-2019'> 
-           <img style='align_self: center' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
+           <img src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue' style='float:left' >
   </a>
   
 </p>
