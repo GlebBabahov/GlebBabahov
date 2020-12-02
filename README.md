@@ -3,7 +3,7 @@
 - 📬 Want to reach me? Send me an email: [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
 
 <p align='center'> 
-  <img src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue" alt="GlebBabahov'> 
+  <img src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue' alt='GlebBabahov'> 
   <br>
 </p>
 
