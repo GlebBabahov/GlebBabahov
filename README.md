@@ -3,13 +3,13 @@
 - 📬 Want to reach me? Send me an email: [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
 
 <p align='center'> 
-  <img src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue' alt='GlebBabahov'> 
+  <img width='45%' src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue' alt='GlebBabahov'> 
   <br>
 </p>
 
 <p align='center'> 
   <a href='https://github.com/iliterobotics/FRC-Robot-2019'> 
-           <img align='left'  width='45%' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
+           <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
   </a>
   <a href='https://github.com/iliterobotics/FRC-Robot-2020'> 
            <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue'>
