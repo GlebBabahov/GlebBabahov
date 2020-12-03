@@ -9,10 +9,10 @@
 
 <p align='center'> 
   <a href='https://github.com/iliterobotics/FRC-Robot-2019'> 
-           <img align='left' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
+           <img align='left'  width='45%' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2019&theme=vue'>
   </a>
   <a href='https://github.com/iliterobotics/FRC-Robot-2020'> 
-           <img align='right' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue'>
+           <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api/pin/?username=iliterobotics&repo=frc-robot-2020&theme=vue'>
   </a>
 </p>
                                                                                                                           
