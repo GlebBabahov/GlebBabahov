@@ -1,6 +1,6 @@
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🎓 Battlefield High School
-- 📬 Want to reach me? Send me an email: [gl.babahov@gmail.com](mailto:gl.babahov@gmail.com)
+- 📬 Want to reach me? Send me an email: [glebbabahov@gmail.com](mailto:glebbabahov@gmail.com)
 
 <p align='center'> 
   <img width='45%' src='https://github-readme-stats.vercel.app/api?username=GlebBabahov&hide=stars,issues&theme=vue' alt='GlebBabahov'> 
